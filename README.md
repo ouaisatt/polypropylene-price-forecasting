@@ -168,7 +168,7 @@ streamlit run app.py
 
 **Ouais A.** — Machine Learning Engineer  
 Master's degree · Time Series Forecasting · Classification  
-🔗 [Upwork Profile](https://www.upwork.com/freelancers/ouaisatt)
+🔗 [Upwork Profile](https://www.upwork.com/freelancers/~01b003c4fff0dcec92?viewMode=1)
 
 ---
 
